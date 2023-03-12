@@ -1,4 +1,11 @@
-### Hi there 👋
+### WELCOME
+<div id="header" align="center">
+  <img src="https://github.com/connieuribe/connieuribe/blob/main/Connie%20Uribe%20Chavez-1.png"  width="40%" height="40%">
+  <h1>
+  Welcome to my GitHub
+  </h1>
+</div>
+
 
 <!--
 **connieuribe/connieuribe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
