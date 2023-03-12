@@ -1,6 +1,6 @@
 ### WELCOME
 <div id="header" align="center">
-  <img src="https://github.com/connieuribe/connieuribe/blob/main/Connie%20Uribe%20Chavez-1.png"  width="100%" height="20%">
+  <img src="https://github.com/connieuribe/connieuribe/blob/main/Connie%20Uribe%20Chavez-1.png"  width="50%" height="10%">
   <h1>
   Welcome to my GitHub
   </h1>
