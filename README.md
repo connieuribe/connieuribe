@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://github.com/connieuribe/connieuribe/blob/main/Connie%20Transparent.png"  width="60%" height="30%">
+  <img src="https://github.com/connieuribe/connieuribe/blob/main/Connie%20Transparent.png"  width="30%" height="10%">
   <h1>
   Welcome to my GitHub
   </h1>
