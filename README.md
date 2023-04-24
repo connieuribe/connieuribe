@@ -16,6 +16,8 @@ I'm a Cybersecurity Professional 💻, and a programmer 👩‍💻!
 <img src="https://komarev.com/ghpvc/?username=connieuribe&style=flat-square&color=blue" alt=""/>
 </br>
 
+
+
 ## I'm currently learning
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -42,6 +44,15 @@ I'm a Cybersecurity Professional 💻, and a programmer 👩‍💻!
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=connieuribe&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=connieuribe&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=connieuribe" alt="connieuribe" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
+
+
 ## Certificates
 
 
