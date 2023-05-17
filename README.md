@@ -1,9 +1,7 @@
-<div id="header" align="center">
-  <img src="https://github.com/connieuribe/connieuribe/blob/main/Connie%20Transparent.png"  width="30%" height="10%">
-  <h1>
-  Welcome to my GitHub
-  </h1>
-</div>
+![header](https://github.com/connieuribe/connieuribe/blob/main/github-header-image%20(1).png)
+
+
+
 <h3 align="center">
 I'm a Cybersecurity Professional 💻, and a programmer 👩‍💻!
 </h3> 
