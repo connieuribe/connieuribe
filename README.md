@@ -2,9 +2,7 @@
 
 
 
-<h2 align="center">
-I'm a Cybersecurity Professional 💻, and a programmer 👩‍💻!
-</h2> 
+
 <h3>
 Contact me ⬇️ 
  </h3>
