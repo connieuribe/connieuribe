@@ -2,24 +2,24 @@
 
 
 
-<h3 align="center">
+<h2 align="center">
 I'm a Cybersecurity Professional 💻, and a programmer 👩‍💻!
-</h3> 
-</br>
-</br>
-<a href="https://www.linkedin.com/in/connieuribe/"><img align="CEnter" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connie | LinkedIn" /></a>
+</h2> 
+<h3>
+Contact me ⬇️ 
+ </h3>
+<a href="https://www.linkedin.com/in/connieuribe/"><img align="Center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connie | LinkedIn" /></a>
 <a href="mailto:connieuribe95@gmail.com>"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Connie | gmail" /></a> 
 </br>
-</br>
-<img src="https://komarev.com/ghpvc/?username=connieuribe&style=flat-square&color=blue" alt=""/>
-</br>
 
 
 
-## I'm currently learning
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+## What I am learning
+- Security Testing and Assessment
+- Digital Forensic Techniques
+- Network Security
 
 ## Technical Skills
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -35,6 +35,30 @@ I'm a Cybersecurity Professional 💻, and a programmer 👩‍💻!
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 
+
+
+
+
+
+
+</br>
+<img src="https://komarev.com/ghpvc/?username=connieuribe&style=flat-square&color=blue" alt=""/>
+</br>
+
+<!--
+
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=connieuribe" alt="connieuribe" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
+  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+</picture>
+
+
 ## GitHub Stats
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=connieuribe&theme=dark&background=000000)](https://git.io/streak-stats)
@@ -42,21 +66,6 @@ I'm a Cybersecurity Professional 💻, and a programmer 👩‍💻!
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=connieuribe&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=connieuribe" alt="connieuribe" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-
-
-## Certificates
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
-  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
-</picture>
-
-<!--
 **connieuribe/connieuribe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
