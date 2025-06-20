@@ -1,4 +1,4 @@
-![header](https://github.com/connieuribe/connieuribe/blob/main/github-header-image%20(1).png)
+![header](https://github.com/connieuribe/connieuribe/blob/495eb9cc96ef06186002cd99ea34f8708f976a7b/Connie%20Header.png)
 
 
 
