@@ -1,5 +1,6 @@
 ![header](https://github.com/connieuribe/connieuribe/blob/495eb9cc96ef06186002cd99ea34f8708f976a7b/Connie%20Header.png)
 
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%91%8B+Hi+there%2C+welcome!)](https://git.io/typing-svg)
 
 
@@ -41,21 +42,19 @@
 ![Mimikatz](https://img.shields.io/badge/Mimikatz-000000?style=flat)
 
 
-
 ## 🎓 Certifications
 
 - CompTIA Security+ ✅  
 - CompTIA Network+ ✅  
 - [More coming soon...]
   
- 
 
 ## ✨ Fun Facts
 
 - 🪖 I served 4 years in the military as a maintenance administrator clerk  
 - 🏋️ I love using fitness to stay focused  
 - 📖 I enjoy reading fantasy and romance books!
-
+  
 
 <a href="">
   <img 
@@ -70,7 +69,7 @@
 
 ---
 
-⭐ *Thank you for visiting my profile!*
+⭐ *Thank you for visiting my profile!* 🤗
 
 ***Let’s connect!*** ➡️➡️➡️➡️
 <a href="https://www.linkedin.com/in/connieuribe/"><img align="Center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connie | LinkedIn" /></a>
@@ -81,6 +80,7 @@
 <img src="https://komarev.com/ghpvc/?username=connieuribe&style=flat-square&color=blue" alt=""/>
 </br>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&pause=1000&color=FF14DA&width=435&lines=%E2%99%A5%EF%B8%8F%F0%9F%91%BE%E2%99%A5%EF%B8%8F%F0%9F%91%BE%E2%99%A5%EF%B8%8F%F0%9F%91%BE%E2%99%A5%EF%B8%8F%F0%9F%91%BE%E2%99%A5%EF%B8%8F%F0%9F%91%BE%E2%99%A5%EF%B8%8F%F0%9F%91%BE%E2%99%A5%EF%B8%8F...)](https://git.io/typing-svg)
 <!--
 ## 📂 Pinned Projects
 
