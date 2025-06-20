@@ -7,7 +7,6 @@
 Contact me ⬇️ 
  </h3>
 <a href="https://www.linkedin.com/in/connieuribe/"><img align="Center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connie | LinkedIn" /></a>
-<a href="mailto:connieuribe95@gmail.com>"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Connie | gmail" /></a> 
 </br>
 
 
